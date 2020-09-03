@@ -10,6 +10,7 @@
     |--pre_single.py
 '''
 # Code for paper "MFC-CNN：An Automatic Grading Scheme for Light Stress Levels of Lettuce (Lactuca sativa L.) Leaves"
+'''
 #Download data
 All the image set is provided in here
 '''

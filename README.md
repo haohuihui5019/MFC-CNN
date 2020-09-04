@@ -14,7 +14,7 @@ Code for paper "MFC-CNN：An Automatic Grading Scheme for Light Stress Levels of
 python main.py
 ```
 # data
-All the image set is provided in here [baidu cloud]() Password:
+All the image set is provided in here [https://drive.google.com/drive/folders/1Mz2YQ-Sm7RL-qa4tHvJ89_4rnoHq-gkw?usp=sharing]
 # requirments:
  ```
  python=3.7

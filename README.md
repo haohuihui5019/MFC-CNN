@@ -14,7 +14,7 @@ Code for paper "MFC-CNN：An Automatic Grading Scheme for Light Stress Levels of
 python main.py
 ```
 # data
-All the image set is provided in here [https://drive.google.com/drive/folders/1Mz2YQ-Sm7RL-qa4tHvJ89_4rnoHq-gkw?usp=sharing]
+All the image set is provided in  Googledrive [https://drive.google.com/drive/folders/1Mz2YQ-Sm7RL-qa4tHvJ89_4rnoHq-gkw?usp=sharing] and Figshare. In figshare, due to the capacity limitation of each project, we upload the data in two projects. (1) https://figshare.com/articles/figure/Untitled_Item/13106867 (2) https://figshare.com/articles/figure/Part2--Image_set_for_the_paper_MFC-CNN_An_Automatic_Grading_Scheme_for_Light_Stress_Levels_of_Lettuce_Lactuca_sativa_L_Leaves_/13107197
 # requirments:
  ```
  python=3.7

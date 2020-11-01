@@ -25,4 +25,18 @@ All the image set is provided in  Googledrive [https://drive.google.com/drive/fo
  scipy=1.2.1
 ```
 # cite
-updated later
+The relative paper should be cited when you use our code or dataset.
+```
+@article{HAO2020105847,
+title = "MFC-CNN: An automatic grading scheme for light stress levels of lettuce (Lactuca sativa L.) leaves",
+journal = "Computers and Electronics in Agriculture",
+volume = "179",
+pages = "105847",
+year = "2020",
+issn = "0168-1699",
+doi = "https://doi.org/10.1016/j.compag.2020.105847",
+url = "http://www.sciencedirect.com/science/article/pii/S0168169920313934",
+author = "Xia Hao and Jingdun Jia and Wanlin Gao and Xuchao Guo and Wenxin Zhang and Lihua Zheng and Minjuan Wang",
+keywords = "Classification, Stress grading, Deep learning, Multiscale input, Cascade operation",
+}
+```
